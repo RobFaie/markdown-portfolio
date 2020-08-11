@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- Table Top Games
+  - Pandemix
+  - Settlers of Catan
+  - Dungeons & Dragons
+- Pets
+  - dogs
+  - cats
+  - ducks
